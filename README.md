@@ -2,7 +2,7 @@
 
 [![Academia.edu](https://img.shields.io/badge/Academia-Research%20Publication-blueviolet?style=flat&logo=academia&logoColor=white)](https://www.academia.edu/144795804/Inference_Geometry_The_External_Curvature_of_Meaning)
 
-# 🌌 Cosmic Particle Symphony  
+# 🌌 Particle Symphony  
 *A Visual Demonstration of Inference Geometry*
 
 This interactive particle environment is a companion to:
